@@ -1,0 +1,26 @@
+['Female']#男 女
+['AgeOver60']老年
+['Age18-60']#中年
+['AgeLess18']#少年
+['Front']#正面
+['Side']#侧面
+['Back']#背面
+['Hat']不带帽子 戴帽子
+['Glasses']不带眼镜  带眼镜
+['HandBag'] 手提包
+['ShoulderBag']肩包 没有  有
+['Backpack']背包 没有 有
+['HoldObjectsInFront']
+['ShortSleeve']#短袖
+['LongSleeve']#长袖
+['UpperStride']
+['UpperLogo']
+['UpperPlaid']
+['UpperSplice']
+['LowerStripe']
+['LowerPattern']
+['LongCoat']
+['Trousers']#裤子
+['Shorts']#短裤
+['Skirt&Dress']#裙子
+['boots']
